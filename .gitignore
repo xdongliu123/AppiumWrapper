@@ -5,3 +5,7 @@ __pycache__/
 */.DS_Store
 .DS_Store
 .DS_Store?
+
+EMAAppiumClient/emaappiumclient/conf/globalconf.py
+
+.vscode/*.json

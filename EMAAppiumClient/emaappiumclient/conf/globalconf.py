@@ -14,10 +14,10 @@ class emaconfiguration (object):
         'app': 'com.everbridge.mobile.iv.Recipient',
         #'app': 'com.example.apple-samplecode.UICatalog',
         'platformName': 'iOS',
-        'platformVersion': '10.1',
-        'deviceName': 'iPhone 6 Plus',
+        'platformVersion': '11.2.1',
+        'deviceName': 'iPhone6S',
         'automationName': 'XCUITest',
-        'udid': '15998d525356f11014af48923e7fc52c1a1c27b2'
+        'udid': '44da6abb9a0209d6f9a7f592113d9f4ca45abdeb'
         #"udid": "15a50f3cbae47b2e714f01746b11a6d878ee7e33"
     }
 
@@ -44,4 +44,3 @@ class emaconfiguration (object):
 
     def getAppiumServerURL(self):
         return emaconfiguration.appium_svr_url
-
